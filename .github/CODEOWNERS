@@ -1,0 +1,8 @@
+# Global code owners - all changes require review from repository maintainer
+* @hfariborzi
+
+# Core game logic requires extra scrutiny
+src/app/page.tsx @hfariborzi
+src/app/components/ @hfariborzi
+package.json @hfariborzi
+README.md @hfariborzi
